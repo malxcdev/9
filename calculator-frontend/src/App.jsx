@@ -3,7 +3,10 @@ function App() {
 
   return (
     <>
-      <Calculator />
+    <section className="bg-slate-200 h-screen justify-center items-center">
+    <Calculator />
+    </section>
+     
     </>
   )
 }

@@ -2,8 +2,8 @@ import React from 'react'
 
 function Calculator() {
     return (
-        <section className='bg-white'>
-            <div>
+        <section className='flex justify-between p-4'>
+            <div className='bg-white p-4'>
                 <div>
                     <h1>Mortgage Calculator</h1>
                     <a href="#">Clear All</a>
